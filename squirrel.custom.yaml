@@ -1,0 +1,6 @@
+patch:
+  "style/horizontal": true    # 开启横向排列（卷轴模式的基础）
+  "style/layout/max_width": 800   # 候选框最大宽度（根据屏幕调整）
+  "style/layout/max_height": 100  # 控制换行高度，值越小换行越早
+  "style/layout/candidate_spacing": 10  # 候选词间距
+  "menu/page_size": 9         # 每页候选词数量（建议设置为6~9）

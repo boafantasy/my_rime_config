@@ -1,0 +1,45 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 个性化词语 - by @Mintimate
+# 建议自定义短语或者词语追加在这里
+---
+name: custom_simple
+version: "2023.11.30"
+sort: by_weight
+...
+
+# 人名
+韩陈寿	han chen shou	99
+史媛媛	shi yuan yuan	99
+作业帮	zuo ye bang	99
+权媚阳	quan mei yang	99
+张洋	zhang yang	99
+程冬冬	cheng dong dong	99
+徐琼瑶	xu qiong yao	99
+张灯权	zhang deng quan	99
+陈寿	chen shou	99
+媛媛	yuan yuan	99
+媚阳	mei yang	99
+冬冬	dong dong	99
+琼瑶	qiong yao	99
+灯权	deng quan	99
+王玥	wang yue	99
+赵硕	zhao shuo	99
+韩冰	han bing	99
+企微  qi wei  99
+# 常用语
+哈哈	ha ha	99
+macOS	mac	99
+可以	ke yi	99
+# 工具
+颜文字	yan wen zi	100
+# (｡>ㅅ<｡)
+Mintimate	mintimate	1
+https://www.mintimate.cn	mintimate	2
+Mintimate's Blog	mintimate	3
+# 输入法主题
+碧皓青	bi hao qing	99
+碧月青	bi yue qing	99
+蓝水鸭	lan shui ya	99
+黑水鸭	hei shui ya	99
